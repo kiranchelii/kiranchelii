@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kiranchelii
 - 👀 I’m interested in Data Analyst/Business Analsyt/Data Specialist/Data Vizualization expert
-- 🌱 I Learned Data Analytics thorugh Coursera & Grow Data Skills
 - 💞️ I’m looking to collaborate 
 - 📫 You Can reach me on kirankumar4you@gmail.com 
 
